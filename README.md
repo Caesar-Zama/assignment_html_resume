@@ -1,2 +1,2 @@
-# assignment_html_resume
-Build an HTML5 resume to jump start your job search
+# Kevin Lezama
+An HTML5 resume to jump start my job search
